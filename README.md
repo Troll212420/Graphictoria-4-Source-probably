@@ -4,4 +4,4 @@
 <br>
 <br>
  also btw dont use this for ur shit revival this thing is filled with 435364587 vulns<br>
- also, dont confuse this repo with [qunjzs repo](https://github/Neekori/GraphictoriaWebsite)
+ also, dont confuse this repo with [qunjzs repo](https://github.com/Neekori/GraphictoriaWebsite)
